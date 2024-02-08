@@ -1,0 +1,7 @@
+Builder, Bob, bbuilder@mcc.edu, Ball!36Hi, 109001, Full Time, Computer Science, 140.23
+Sailor, Popeye, psailor@mcc.edu, Kit.24TT, 109201, Part Time, Networking Degree, 900.00
+Riding, Red, rriding@mcc.edu, Poppins?89, 192911, NoMajor, 1198.10
+Mouse, Minnie, mmouse@mcc.edu, Ball!36Hi, 109005, Nice Time, Computer Science, 140.23
+Duck, Donald, dduck@mcc.edu, Kit.24TT, 109202, Part Time, 900.00
+Train, Thomas, ttrain@mcc.edu, Poppins?89, 192913, NoMajor, Programming, 1198.10
+Brown, Charlie, cbrown@mcc.edu, Poppins?89, 192918, NoMajor, money
